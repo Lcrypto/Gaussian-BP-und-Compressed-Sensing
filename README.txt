@@ -61,7 +61,7 @@ Sept. 07'
 This code was tested with instances of size 500,000 x 500,000 with 4% non zeros
 3a) run_sparse_gabp.m - script file for running sprase_gabp.m
 4) gabpms.m - Min-Sum algorithm
-C.C. Moallemi and B. Van Roy. Ã¬Convergence of the min-sum algorithm for convex optimization.Ã®
+C.C. Moallemi and B. Van Roy. “Convergence of the min-sum algorithm for convex optimization.”
 4a) run_gabpms.m - script for running the gabpms.m file
 5) gabp_inv.m - runs GaBP for inverting a matrix
 5a) run_gabp_inv.m - script for running gabp_inv
